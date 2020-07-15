@@ -223,22 +223,36 @@ The easiest way to indicate this is to sign up with the time zone you can most e
 ##### What are promotions and demotions, and how do they work?
 Players may earn a spot in a different tier by promoting to the next higher tier or demoting to the next lower tier, based on their place in their division. Note the structure of the League changed starting with season 39, so how promotions and demotions work depends on the season you most recently played:
 
-For players who last played in season 34–38:
-- Players who finish in 1st, 2nd, 3rd, or 4th place in tier A or in 1st place in tier B, are put into tier A.
-- Players who finish in 5th or 6th place in tier A; in 2nd, 3rd, or 4th place in tier B; or in 1st place in tier C, are put into tier B.
-- Players who finish in 5th or 6th place in tier B; in 2nd, 3rd, or 4th place in tier C; or in 1st place in tier D, are put into tier C.
-- Players who finish in 5th or 6th place in tier C or in 2nd or 3rd place in tier D, are put into tier D.
-- Players who finish in 4th or 5th place in tier D or in 1st or 2nd place in tier E, are put into tier E.
-- Players who finish in 6th place in tier D or in 3rd or 4th place in tier E, are put into tier F.
-- Players who finish in 5th or 6th place in tier E or in 1st or 2nd place in tier F, are put into tier G.
+For players who last played in season 36, 37, or 38:
+- Players who finished in 1st, 2nd, 3rd, or 4th place in tier A or in 1st place in tier B, are put into tier A.
+- Players who finished in 5th or 6th place in tier A; in 2nd, 3rd, or 4th place in tier B; or in 1st place in tier C, are put into tier B.
+- Players who finished in 5th or 6th place in tier B; in 2nd, 3rd, or 4th place in tier C; or in 1st place in tier D, are put into tier C.
+- Players who finished in 5th or 6th place in tier C or in 2nd or 3rd place in tier D, are put into tier D.
+- Players who finished in 4th or 5th place in tier D or in 1st or 2nd place in tier E, are put into tier E.
+- Players who finished in 6th place in tier D or in 3rd or 4th place in tier E, are put into tier F.
+- Players who finished in 5th or 6th place in tier E or in 1st or 2nd place in tier F, are put into tier G.
 - The remaining places in tier F are put into tier H.
-For players currently in season 39:
+For players who last played in season 39:
 - Players who finish in 1st place in tiers B, C, and E promote.
 - Players who finish in 1st or 2nd place in tiers D, F, G, and H promote.
 - Players who finish in 5th or 6th place in tiers A, B, C, D, E, F, and G demote.
+For players who last played in season 40:
+- Players who finished in 1st, 2nd, 3rd, or 4th place in tier A or in 1st place in tier B, are put into tier A.
+- Players who finished in 5th or 6th place in tier A; in 2nd, 3rd, or 4th place in tier B; or in 1st place in tier C, are put into tier B.
+- Players who finished in 5th or 6th place in tier B; in 3rd or 4th place in tier C; or in 1st or 2nd place in tier D, are put into tier C.
+- Players who finished in 5th or 6th place in tier C; in 2nd or 3rd place in tier D; or in 1st place in tier E, are put into tier D.
+- Players who finished in 4th or 5th place in tier D; in 2nd, 3rd, or 4th place in tier E; or in 1st place in tier F, are put into tier E.
+- Players who finished in 5th or 6th place in tier E; in 2nd, 3rd, or 4th place in tier F; or in 1st place in tier G, are put into tier F.
+- Players who finished in 5th or 6th place in tier F or in 2nd or 3rd place in tier G, are put into tier G.
+- Players who finished in 4th or 5th place in tier G or in 1st or 2nd place in tier H, are put into tier H.
+- Players who finished in 6th place in tier G or 3rd or 4th place in tier H, are put into tier I.
+- The remaining places in tier H are put into tier J.
 
-Here is a visual representation of these rules:
-![https://cdn.discordapp.com/attachments/245275391344771072/669402457377603584/unknown.png](https://cdn.discordapp.com/attachments/245275391344771072/669402457377603584/unknown.png)
+Here is a visual representation of the season 36, 37, and 38 rules:
+![Transition 1 Rules](https://cdn.discordapp.com/attachments/245275391344771072/669402457377603584/unknown.png)
+
+Here is a visual represenation of the season 40 rules:
+![Transition 2 Rules](https://cdn.discordapp.com/attachments/426794220720750594/732439868147236939/unknown.png)
 
 ##### At the end of the season, my division has fewer than 6 players. How does this affect promotion and demotion?
 The same places promote and demote as normal. If a place that would demote is vacant, no additional players demote.
